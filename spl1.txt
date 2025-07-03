@@ -1,0 +1,2 @@
+this is a sample file that shall be published to git 
+commit 1
